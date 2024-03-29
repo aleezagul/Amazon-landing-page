@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "amazon-clone",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "amazon-clone"
+	}
+}
